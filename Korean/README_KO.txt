@@ -58,4 +58,5 @@ DDON 한국어 패치 1.0
 감사
 - 영어 커뮤니티 번역(DDON-translation)과 Arrowgene DDON 서버 프로젝트의
   파일 형식 연구를 바탕으로 만들었습니다.
+- 한글 글꼴: Pretendard (Copyright 2021 Kil Hyung-jin, SIL Open Font License 1.1)
 - 이 패치는 비공식 팬 번역이며 CAPCOM과 관련이 없습니다.

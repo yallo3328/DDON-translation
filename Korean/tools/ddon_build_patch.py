@@ -340,6 +340,7 @@ def main() -> int:
     ap.add_argument("--y-offset", type=int, default=3)
     ap.add_argument("--pages", default="0,1,2,3,4,5,6,7,8")
     ap.add_argument("--readme-note", default="")
+    ap.add_argument("--rerender-hangul", action="store_true", help="이미 등록된 한글 글자도 --font 로 전부 다시 그림")
     ap.add_argument("--readme-file", default="", help="README_KO.txt를 이 파일 내용으로 통째로 교체")
     ap.add_argument("--game-dir", default="", help="기준 패키지에 없는 ARC를 읽어 올 게임 폴더(원본 파일)")
     ap.add_argument("--tex-patch", default="", help="텍스처 교체 목록 JSON (arc, tex, png)")
@@ -481,22 +482,28 @@ def main() -> int:
     need = sorted((c for c in used_hangul if ord(c) not in registered), key=ord)
     log(f"  CSV 사용 한글 {len(used_hangul):,}자 / 폰트 등록 한글 {sum(1 for c in registered if is_hangul(c)):,}자 / 추가 필요 {len(need)}자")
     mapping = []
-    if need:
-        pages = {int(x) for x in a.pages.split(",")}
-        cands = [g for g in glyphs if g["page"] in pages and is_cjk(g["codepoint"])
-                 and chr(g["codepoint"]) not in preserved_cjk
-                 and g["width"] >= 28 and g["height"] >= 28 and g["advance"] >= 28]
-        cands.sort(key=lambda g: (abs(g["width"] - 32) + abs(g["height"] - 32) + abs(g["advance"] - 32),
-                                  g["page"], g["y_base"], g["x"], g["index"]))
-        if len(cands) < len(need):
-            print(f"[오류] 남은 슬롯 부족: {len(cands)} < {len(need)}")
-            return 1
-        slots = cands[:len(need)]
+    rerender = []
+    if a.rerender_hangul:
+        rerender = [g for g in glyphs if is_hangul(g["codepoint"])]
+        log(f"  기존 한글 {len(rerender):,}자를 새 폰트로 다시 그립니다")
+    if need or rerender:
+        slots = []
+        if need:
+            pages = {int(x) for x in a.pages.split(",")}
+            cands = [g for g in glyphs if g["page"] in pages and is_cjk(g["codepoint"])
+                     and chr(g["codepoint"]) not in preserved_cjk
+                     and g["width"] >= 28 and g["height"] >= 28 and g["advance"] >= 28]
+            cands.sort(key=lambda g: (abs(g["width"] - 32) + abs(g["height"] - 32) + abs(g["advance"] - 32),
+                                      g["page"], g["y_base"], g["x"], g["index"]))
+            if len(cands) < len(need):
+                print(f"[오류] 남은 슬롯 부족: {len(cands)} < {len(need)}")
+                return 1
+            slots = cands[:len(need)]
         tex_idx = {}
         for i, e in enumerate(gui.entries):
             if e["crc"] == TEX_CRC and e["name"].lower().startswith("ui\\00_font\\ddo_font_jpn_win_"):
                 tex_idx[int(e["name"][-8:-6])] = i
-        touched = sorted({s["page"] for s in slots})
+        touched = sorted({s["page"] for s in slots} | {g["page"] for g in rerender})
         imgs = {}
         for pg in touched:
             tex = gui.read(tex_idx[pg])
@@ -517,6 +524,10 @@ def main() -> int:
             struct.pack_into("<I", gfd, g["offset"], ord(ch))
             mapping.append(dict(new=ch, old=chr(g["codepoint"]), page=g["page"], x=g["x"], y=g["y_base"],
                                 w=g["width"], h=g["height"], size=sz, uses=used_hangul[ch]))
+        for g in rerender:
+            pi = imgs[g["page"]]
+            bg, fg = pi["colors"]
+            render_glyph(pi["after"], g, chr(g["codepoint"]), font_path, a.font_size, a.x_offset, a.y_offset, bg, fg)
         for pg, pi in imgs.items():
             body = bytearray(pi["tex"][pi["off"]:])
             nblk = patch_bc3(body, pi["w"], pi["before"], pi["after"])
@@ -544,7 +555,7 @@ def main() -> int:
                     g = Gmd(arc.read(i))
                     if apply_csv_to_gmd(g, rows):
                         errors.append(f"문장 불일치: {rel} {e['name']}")
-    if gui_rel in new_files or need:
+    if gui_rel in new_files or need or rerender:
         garc = Arc(new_files.get(gui_rel) or (payload_root / Path(shipped[gui_rel]["path"])).read_bytes())
         gd = garc.read(garc.find(GFD_CRC, "ui\\00_font\\ddo_font_jpn_win")[0])
         cps = [struct.unpack_from("<I", gd, len(gd) - gcount * 16 + i * 16)[0] for i in range(gcount)]
