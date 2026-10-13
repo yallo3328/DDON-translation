@@ -1,0 +1,225 @@
+﻿key,English,한국어,출처,검토
+AvailableLocales,Available Locales: {0},사용 가능한 언어: {0},신규 번역,
+CurrentLocale,Current locale: {0},현재 언어: {0},신규 번역,
+LocaleUpdated,Locale updated to: {0},언어가 {0}(으)로 변경되었습니다.,신규 번역,
+InvalidLocale,"Invalid locale, it must be one of the following: {0}",올바르지 않은 언어 코드입니다. 다음 중 하나를 입력하세요: {0},신규 번역,
+PhysicalAttack,Physical Attack,물리 공격력,게임 번역(CSV),
+MagickAttack,Magick Attack,마법 공격력,게임 번역(CSV),
+PhysicalDefense,Physical Defense,물리 방어력,게임 번역(CSV),
+MagickDefense,Magick Defense,마법 방어력,게임 번역(CSV),
+HealthPoints,Health Points,체력,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Stamina,Stamina,스태미나,게임 번역(CSV),
+RecoveryLimit,Recovery Limit,생명 치유력,게임 번역(CSV),
+Endurance,Endurance,내구력,게임 번역(CSV),
+KnockdownPower,Knockdown Power,날려버리기 힘,게임 번역(CSV),
+StunPower,Stun Power,기절 공격력,게임 번역(CSV),
+FireForce,Fire Force,파이어 포스,게임 번역(CSV) (띄어쓰기 통일),
+IceForce,Ice Force,아이스 포스,게임 번역(CSV),
+LightningForce,Lightning Force,썬더 포스,게임 번역(CSV),
+LightForce,Light Force,라이트 포스,게임 번역(CSV),
+DarkForce,Dark Force,다크 포스,게임 번역(CSV),
+Gilded,Gilded,황금화,게임 번역(CSV),
+Sleep,Sleep,수면,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Petrification,Petrification,석화,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Slow,Slow,지연,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Frail,Frail,연화,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+PhysicalAtkDown,Physical Atk. Down,물리 공격 저하,게임 번역(CSV),
+MagickAtkDown,Magick Atk. Down,마법 공격 저하,게임 번역(CSV),
+PhysicalDefDown,Physical Def. Down,물리 방어 저하,게임 번역(CSV),
+MagickDefDown,Magick Def. Down,마법 방어 저하,게임 번역(CSV) (띄어쓰기 통일),
+DemihumanSlayer,Demihuman Slayer,대적 특효【아인】,게임 번역(CSV),
+SkeletonSlayer,Skeleton Slayer,대적 특효【해골】,게임 번역(CSV),
+OgrekinSlayer,Ogrekin Slayer,대적 특효【귀인】,게임 번역(CSV),
+GiantSlayer,Giant Slayer,대적 특효【거인】,게임 번역(CSV),
+CursedSlayer,Cursed Slayer,대적 특효【저주】,게임 번역(CSV),
+BeastSlayer,Beast Slayer,비스트 슬레이어,게임 번역(CSV),
+CorruptedSlayer,Corrupted Slayer,대적 특효【침식】,게임 번역(CSV),
+HumanSlayer,Human Slayer,대적 특효【인간】,게임 번역(CSV),
+WarReadySlayer,War-Ready Slayer,대적 특효【전갑】,게임 번역(CSV),
+MagickalConstructsSlayer,Magickal Constructs Slayer,대적 특효【조마】,게임 번역(CSV),
+FormlessSlayer,Formless Slayer,대적 특효【연체】,게임 번역(CSV),
+UndeadSlayer,Undead Slayer,대적 특효【부사】,게임 번역(CSV),
+FiendSlayer,Fiend Slayer,멸마,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+WingedSlayer,Winged Slayer,대적 특효【유익】,게임 번역(CSV),
+DragonkinSlayer,Dragonkin Slayer,용살,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SpiritSlayer,Spirit Slayer,고스트 슬레이어,게임 번역(CSV),
+AlchemySlayer,Alchemy Slayer,대적 특효【연금】,게임 번역(CSV),
+AgileMotion,Agile Motion,민동,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DireGouge,Dire Gouge,광자,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+CrushReceive,Crush Receive,수붕,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Counter,Counter,수도,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+AdvantageousFeeling,Advantageous Feeling,수득,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Onslaught,Onslaught,맹공,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Resilience,Resilience,강인,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Precision,Precision,정밀,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ArrowIncrease,Arrow Increase,충시,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SkilledReload,Skilled Reload,교전,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+AggressionArrow,Aggression Arrow,침시,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+PerfectReload,Perfect Reload,장전,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HerculeanStrength,Herculean Strength,강력,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ToughSkin,Tough Skin,경피,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+RelaxedCure,Relaxed Cure,완료,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SpiritOverflow,Spirit Overflow,창혼,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Compassion,Compassion,자람,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+LongExposure,Long Exposure,장로,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Encouragement,Encouragement,격려,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DivineProtection,Divine Protection,가호,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Prominence,Prominence,이채,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ViolentRelease,Violent Release,열방,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Supercharge,Supercharge,과급,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DividedStrength,Divided Strength,기정,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FrugalDefense,Frugal Defense,장수,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Robust,Robust,장건,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Invigorated,Invigorated,활성,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Perky,Perky,발랄,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+EasedBlade,Eased Blade,완인,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Longline,Longline,연승,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+RopeReversal,Rope Reversal,승도,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SpinAvoid,Spin Avoid,피선,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HighJump,High Jump,고도,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FlyingEvasion,Flying Evasion,비회피,게임 번역(CSV),
+FuriousGrip,Furious Grip,악열,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Quakemaker,Quakemaker,여진,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+EnduringGrip,Enduring Grip,내악,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SkyHammer,Sky Hammer,공격,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DestructiveFall,Destructive Fall,열추,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+BreakFormation,Break Formation,도진,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SpiritChant,Spirit Chant,정창,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+GracefulChant,Graceful Chant,영,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ContinuedChant,Continued Chant,속영,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+MagickEnergy,Magick Energy,마정,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FireAttack,Fire Attack,공염,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+IceAttack,Ice Attack,공빙,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ThunderAttack,Lightning Attack,공뢰,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HolyAttack,Holy Attack,공성,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DarkAttack,Dark Attack,공암,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+TwinMagick,Twin Magick,마쌍,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+UnitedEnergy,United Energy,일세,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+LengthyAssistance,Lengthy Assistance,확조,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+QuickArrow,Quick Arrow,신시,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HealExtension,Heal Extension,연료,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HealThyself,Heal Thyself,자료,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SelfFeedback,Self Feedback,자회,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+QuickHealing,Quick Healing,급활,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FireAffinity,Fire Affinity,염습,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+IceAffinity,Ice Affinity,빙습,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ThunderAffinity,Lightning Affinity,뢰습,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HolyAffinity,Holy Affinity,성습,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+DarkAffinity,Dark Affinity,암습,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Aggression,Aggression,초한,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Malice,Malice,숙원,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Mangle,Mangle,참각,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FirstStrike,First Strike,선제공격,신규 번역,
+FullBodied,Full Bodied,혼신,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Weighted,Weighted,중당,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HeavyAttack,Heavy Attack,중공,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+UnyieldingPosture,Unyielding Posture,고감,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Challenger,Challenger,도련,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+AlchemicalInvasion,Alchemical Invasion,침련,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ProlongedLure,Prolonged Lure,연유,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+WellPracticed,Well-Practiced,속련,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+LivelyRomp,Lively Romp,무활,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+VigorousVitality,Vigorous Vitality,성정,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Relaxedness,Relaxedness,쾌동,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+HeroicSpirit,Heroic Spirit,영기,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Efficacy,Efficacy,약효,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Extension,Extension,연림,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Avoidance,Avoidance,피활,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ExtendedHealing,Extended Healing,장유,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+Critical,Critical,림견,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+EvasiveSpirit,Evasive Spirit,피령,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+GreatEnchantment,Great Enchantment,강부,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+MagickalCharge,Magickal Charge,마충,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ExtendedGlyph,Extended Glyph,연인,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FierceFlight,Fierce Flight,열상,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+MagickalChant,Magickal Chant,절마,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ComplementChant,Complement Chant,절보,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FortunesofWar,Fortunes of War,무운,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+SourceLuck,Source Luck,원운,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+ActiveSupression,Active Suppression,활진,게임 번역(CSV),짧은 음독 기술명(의미 전달 약함)
+FighterSlashDamageUP,Fighter's Slash Damage ↑,파이터의 베기 속성 대미지 UP,통일 규칙,
+FighterStrikeDamageUP,Fighter's Impact Damage ↑,파이터의 타격 속성 대미지 UP,통일 규칙,
+FighterNonattributeDamageUP,Fighter's Null Damage ↑,파이터의 무속성 대미지 UP,통일 규칙,
+FighterFireDamageUP,Fighter's Fire Damage ↑,파이터의 화염 속성 대미지 UP,통일 규칙,
+FighterIceDamageUP,Fighter's Ice Damage ↑,파이터의 빙결 속성 대미지 UP,통일 규칙,
+FighterLightningDamageUP,Fighter's Lightning Damage ↑,파이터의 뇌격 속성 대미지 UP,통일 규칙,
+FighterHolyDamageUP,Fighter's Holy Damage ↑,파이터의 성 속성 대미지 UP,통일 규칙,
+FighterDarkDamageUP,Fighter's Dark Damage ↑,파이터의 어둠 속성 대미지 UP,통일 규칙,
+SeekerSlashDamageUP,Seeker's Slash Damage ↑,시커의 베기 속성 대미지 UP,통일 규칙,
+SeekerStrikeDamageUP,Seeker's Impact Damage ↑,시커의 타격 속성 대미지 UP,통일 규칙,
+SeekerNonattributeDamageUP,Seeker's Null Damage ↑,시커의 무속성 대미지 UP,통일 규칙,
+SeekerFireDamageUP,Seeker's Fire Damage ↑,시커의 화염 속성 대미지 UP,통일 규칙,
+SeekerIceDamageUP,Seeker's Ice Damage ↑,시커의 빙결 속성 대미지 UP,통일 규칙,
+SeekerLightningDamageUP,Seeker's Lightning Damage ↑,시커의 뇌격 속성 대미지 UP,통일 규칙,
+SeekerHolyDamageUP,Seeker's Holy Damage ↑,시커의 성 속성 대미지 UP,통일 규칙,
+SeekerDarkDamageUP,Seeker's Dark Damage ↑,시커의 어둠 속성 대미지 UP,통일 규칙,
+HunterStrikeDamageUP,Hunter's Impact Damage ↑,헌터의 타격 속성 대미지 UP,통일 규칙,
+HunterPierceDamageUP,Hunter's Pierce Damage ↑,헌터의 사격 속성 대미지 UP,통일 규칙,
+HunterNonattributeDamageUP,Hunter's Null Damage ↑,헌터의 무속성 대미지 UP,통일 규칙,
+HunterFireDamageUP,Hunter's Fire Damage ↑,헌터의 화염 속성 대미지 UP,통일 규칙,
+HunterIceDamageUP,Hunter's Ice Damage ↑,헌터의 빙결 속성 대미지 UP,통일 규칙,
+HunterLightningDamageUP,Hunter's Lightning Damage ↑,헌터의 뇌격 속성 대미지 UP,통일 규칙,
+HunterHolyDamageUP,Hunter's Holy Damage ↑,헌터의 성 속성 대미지 UP,통일 규칙,
+HunterDarkDamageUP,Hunter's Dark Damage ↑,헌터의 어둠 속성 대미지 UP,통일 규칙,
+PriestNonattributeDamageUP,Priest's Null Damage ↑,프리스트의 무속성 대미지 UP,통일 규칙,
+PriestFireDamageUP,Priest's Fire Damage ↑,프리스트의 화염 속성 대미지 UP,통일 규칙,
+PriestIceDamageUP,Priest's Ice Damage ↑,프리스트의 빙결 속성 대미지 UP,통일 규칙,
+PriestLightningDamageUP,Priest's Lightning Damage ↑,프리스트의 뇌격 속성 대미지 UP,통일 규칙,
+PriestHolyDamageUP,Priest's Holy Damage ↑,프리스트의 성 속성 대미지 UP,통일 규칙,
+PriestDarkDamageUP,Priest's Dark Damage ↑,프리스트의 어둠 속성 대미지 UP,통일 규칙,
+ShieldSageStrikeDamageUP,Shield Sage's Impact Damage ↑,실드 세이지의 타격 속성 대미지 UP,통일 규칙,
+ShieldSageNonattributeDamageUP,Shield Sage's Null Damage ↑,실드 세이지의 무속성 대미지 UP,통일 규칙,
+ShieldSageFireDamageUP,Shield Sage's Fire Damage ↑,실드 세이지의 화염 속성 대미지 UP,통일 규칙,
+ShieldSageIceDamageUP,Shield Sage's Ice Damage ↑,실드 세이지의 빙결 속성 대미지 UP,통일 규칙,
+ShieldSageLightningDamageUP,Shield Sage's Lightning Damage ↑,실드 세이지의 뇌격 속성 대미지 UP,통일 규칙,
+ShieldSageHolyDamageUP,Shield Sage's Holy Damage ↑,실드 세이지의 성 속성 대미지 UP,통일 규칙,
+ShieldSageDarkDamageUP,Shield Sage's Dark Damage ↑,실드 세이지의 어둠 속성 대미지 UP,통일 규칙,
+SorcererSlashDamageUP,Sorcerer's Slash Damage ↑,소서러의 베기 속성 대미지 UP,통일 규칙,
+SorcererStrikeDamageUP,Sorcerer's Impact Damage ↑,소서러의 타격 속성 대미지 UP,통일 규칙,
+SorcererPierceDamageUP,Sorcerer's Pierce Damage ↑,소서러의 사격 속성 대미지 UP,통일 규칙,
+SorcererNonattributeDamageUP,Sorcerer's Null Damage ↑,소서러의 무속성 대미지 UP,통일 규칙,
+SorcererFireDamageUP,Sorcerer's Fire Damage ↑,소서러의 화염 속성 대미지 UP,통일 규칙,
+SorcererIceDamageUP,Sorcerer's Ice Damage ↑,소서러의 빙결 속성 대미지 UP,통일 규칙,
+SorcererLightningDamageUP,Sorcerer's Lightning Damage ↑,소서러의 뇌격 속성 대미지 UP,통일 규칙,
+SorcererHolyDamageUP,Sorcerer's Holy Damage ↑,소서러의 성 속성 대미지 UP,통일 규칙,
+SorcererDarkDamageUP,Sorcerer's Dark Damage ↑,소서러의 어둠 속성 대미지 UP,통일 규칙,
+WarriorSlashDamageUP,Warrior's Slash Damage ↑,워리어의 베기 속성 대미지 UP,통일 규칙,
+WarriorStrikeDamageUP,Warrior's Impact Damage ↑,워리어의 타격 속성 대미지 UP,통일 규칙,
+WarriorNonattributeDamageUP,Warrior's Null Damage ↑,워리어의 무속성 대미지 UP,통일 규칙,
+WarriorFireDamageUP,Warrior's Fire Damage ↑,워리어의 화염 속성 대미지 UP,통일 규칙,
+WarriorIceDamageUP,Warrior's Ice Damage ↑,워리어의 빙결 속성 대미지 UP,통일 규칙,
+WarriorLightningDamageUP,Warrior's Lightning Damage ↑,워리어의 뇌격 속성 대미지 UP,통일 규칙,
+WarriorHolyDamageUP,Warrior's Holy Damage ↑,워리어의 성 속성 대미지 UP,통일 규칙,
+WarriorDarkDamageUP,Warrior's Dark Damage ↑,워리어의 어둠 속성 대미지 UP,통일 규칙,
+ElementArcherStrikeDamageUP,Element Archer's Impact Damage ↑,엘리멘트 아처의 타격 속성 대미지 UP,통일 규칙,
+ElementArcherPierceDamageUP,Element Archer's Pierce Damage ↑,엘리멘트 아처의 사격 속성 대미지 UP,통일 규칙,
+ElementArcherNonattributeDamageUP,Element Archer's Null Damage ↑,엘리멘트 아처의 무속성 대미지 UP,통일 규칙,
+ElementArcherFireDamageUP,Element Archer's Fire Damage ↑,엘리멘트 아처의 화염 속성 대미지 UP,통일 규칙,
+ElementArcherIceDamageUP,Element Archer's Ice Damage ↑,엘리멘트 아처의 빙결 속성 대미지 UP,통일 규칙,
+ElementArcherLightningDamageUP,Element Archer's Lightning Damage ↑,엘리멘트 아처의 뇌격 속성 대미지 UP,통일 규칙,
+ElementArcherHolyDamageUP,Element Archer's Holy Damage ↑,엘리멘트 아처의 성 속성 대미지 UP,통일 규칙,
+ElementArcherDarkDamageUP,Element Archer's Dark Damage ↑,엘리멘트 아처의 어둠 속성 대미지 UP,통일 규칙,
+AlchemistStrikeDamageUP,Alchemist's Impact Damage ↑,알케미스트의 타격 속성 대미지 UP,통일 규칙,
+AlchemistNonattributeDamageUP,Alchemist's Null Damage ↑,알케미스트의 무속성 대미지 UP,통일 규칙,
+AlchemistFireDamageUP,Alchemist's Fire Damage ↑,알케미스트의 화염 속성 대미지 UP,통일 규칙,
+AlchemistIceDamageUP,Alchemist's Ice Damage ↑,알케미스트의 빙결 속성 대미지 UP,통일 규칙,
+AlchemistLightningDamageUP,Alchemist's Lightning Damage ↑,알케미스트의 뇌격 속성 대미지 UP,통일 규칙,
+AlchemistHolyDamageUP,Alchemist's Holy Damage ↑,알케미스트의 성 속성 대미지 UP,통일 규칙,
+AlchemistDarkDamageUP,Alchemist's Dark Damage ↑,알케미스트의 어둠 속성 대미지 UP,통일 규칙,
+SpiritLancerSlashDamageUP,Spirit Lancer's Slash Damage ↑,스피릿 랜서의 베기 속성 대미지 UP,통일 규칙,
+SpiritLancerStrikeDamageUP,Spirit Lancer's Impact Damage ↑,스피릿 랜서의 타격 속성 대미지 UP,통일 규칙,
+SpiritLancerNonattributeDamageUP,Spirit Lancer's Null Damage ↑,스피릿 랜서의 무속성 대미지 UP,통일 규칙,
+SpiritLancerFireDamageUP,Spirit Lancer's Fire Damage ↑,스피릿 랜서의 화염 속성 대미지 UP,통일 규칙,
+SpiritLancerIceDamageUP,Spirit Lancer's Ice Damage ↑,스피릿 랜서의 빙결 속성 대미지 UP,통일 규칙,
+SpiritLancerLightningDamageUP,Spirit Lancer's Lightning Damage ↑,스피릿 랜서의 뇌격 속성 대미지 UP,통일 규칙,
+SpiritLancerHolyDamageUP,Spirit Lancer's Holy Damage ↑,스피릿 랜서의 성 속성 대미지 UP,통일 규칙,
+SpiritLancerDarkDamageUP,Spirit Lancer's Dark Damage ↑,스피릿 랜서의 어둠 속성 대미지 UP,통일 규칙,
+HighScepterSlashDamageUP,High Scepter's Slash Damage ↑,하이 셉터의 베기 속성 대미지 UP,통일 규칙,
+HighScepterStrikeDamageUP,High Scepter's Impact Damage ↑,하이 셉터의 타격 속성 대미지 UP,통일 규칙,
+HighScepterPierceDamageUP,High Scepter's Pierce Damage ↑,하이 셉터의 사격 속성 대미지 UP,통일 규칙,
+HighScepterNonattributeDamageUP,High Scepter's Null Damage ↑,하이 셉터의 무속성 대미지 UP,통일 규칙,
+HighScepterFireDamageUP,High Scepter's Fire Damage ↑,하이 셉터의 화염 속성 대미지 UP,통일 규칙,
+HighScepterIceDamageUP,High Scepter's Ice Damage ↑,하이 셉터의 빙결 속성 대미지 UP,통일 규칙,
+HighScepterLightningDamageUP,High Scepter's Lightning Damage ↑,하이 셉터의 뇌격 속성 대미지 UP,통일 규칙,
+HighScepterHolyDamageUP,High Scepter's Holy Damage ↑,하이 셉터의 성 속성 대미지 UP,통일 규칙,
+HighScepterDarkDamageUP,High Scepter's Dark Damage ↑,하이 셉터의 어둠 속성 대미지 UP,통일 규칙,
