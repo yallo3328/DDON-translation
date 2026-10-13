@@ -1,0 +1,12 @@
+[
+ {
+  "arc": "ddo_common.arc",
+  "tex": "ui\\07_localize\\jpn\\word_ID_jpn",
+  "png": "word_ID_jpn_ko2.png"
+ },
+ {
+  "arc": "ddo_common.arc",
+  "tex": "ui\\07_localize\\jpn\\word01_ID_jpn",
+  "png": "word01_ID_jpn_ko.png"
+ }
+]

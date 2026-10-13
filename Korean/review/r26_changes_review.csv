@@ -1,0 +1,578 @@
+﻿csv_row,구분,gmd,key,일본어 원문,이전,r26
+5022,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗毒」を習得する。,시크릿 어빌리티 「항독」을 습득한다.,시크릿 어빌리티 「독 저항」을 습득한다.
+5023,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗遅」を習得する。,시크릿 어빌리티 「항지」를 습득한다.,시크릿 어빌리티 「지연 저항」를 습득한다.
+5024,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗眠」を習得する。,시크릿 어빌리티 「항면」을 습득한다.,시크릿 어빌리티 「수면 저항」을 습득한다.
+5025,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗絶」を習得する。,시크릿 어빌리티 「항절」을 습득한다.,시크릿 어빌리티 「기절 저항」을 습득한다.
+5026,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗水」を習得する。,시크릿 어빌리티 「항수」를 습득한다.,시크릿 어빌리티 「젖음 저항」를 습득한다.
+5027,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗油」を習得する。,시크릿 어빌리티 「항유」를 습득한다.,시크릿 어빌리티 「기름 저항」를 습득한다.
+5028,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗封」を習得する。,시크릿 어빌리티 「항봉」을 습득한다.,시크릿 어빌리티 「봉인 저항」을 습득한다.
+5029,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗軟」を習得する。,시크릿 어빌리티 「항연」을 습득한다.,시크릿 어빌리티 「연화 저항」을 습득한다.
+5030,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗石」を習得する。,시크릿 어빌리티 「항석」을 습득한다.,시크릿 어빌리티 「석화 저항」을 습득한다.
+5031,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「抗金」を習得する。,시크릿 어빌리티 「항금」을 습득한다.,시크릿 어빌리티 「황금화 저항」을 습득한다.
+5032,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「親炎」を習得する。,시크릿 어빌리티 「친염」을 습득한다.,시크릿 어빌리티 「화염 친화」을 습득한다.
+5033,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「親氷」を習得する。,시크릿 어빌리티 「친빙」을 습득한다.,시크릿 어빌리티 「빙결 친화」을 습득한다.
+5035,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「親聖」を習得する。,시크릿 어빌리티 「친성」을 습득한다.,시크릿 어빌리티 「성 친화」을 습득한다.
+5036,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「親闇」を習得する。,시크릿 어빌리티 「친암」을 습득한다.,시크릿 어빌리티 「어둠 친화」을 습득한다.
+5037,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「制毒」を習得する。,시크릿 어빌리티 「제독」을 습득한다.,시크릿 어빌리티 「독 제어」을 습득한다.
+5038,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「制遅」を習得する。,시크릿 어빌리티 「제지」를 습득한다.,시크릿 어빌리티 「지연 제어」를 습득한다.
+5039,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「制眠」を習得する。,시크릿 어빌리티 「제면」을 습득한다.,시크릿 어빌리티 「수면 제어」을 습득한다.
+5040,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「制絶」を習得する。,시크릿 어빌리티 「제절」을 습득한다.,시크릿 어빌리티 「기절 제어」을 습득한다.
+5041,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「速乾」を習得する。,시크릿 어빌리티 「속건」을 습득한다.,시크릿 어빌리티 「빠른 건조」을 습득한다.
+5042,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「速清」を習得する。,시크릿 어빌리티 「속청」을 습득한다.,시크릿 어빌리티 「빠른 세정」을 습득한다.
+5043,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮封」を習得する。,시크릿 어빌리티 「축봉」을 습득한다.,시크릿 어빌리티 「봉인 단축」을 습득한다.
+5044,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮軟」を習得する。,시크릿 어빌리티 「축연」을 습득한다.,시크릿 어빌리티 「연화 단축」을 습득한다.
+5045,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮焼」を習得する。,시크릿 어빌리티 「축소」를 습득한다.,시크릿 어빌리티 「화상 단축」를 습득한다.
+5046,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮凍」を習得する。,시크릿 어빌리티 「축동」을 습득한다.,시크릿 어빌리티 「동결 단축」을 습득한다.
+5047,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮霧」を習得する。,시크릿 어빌리티 「축무」를 습득한다.,시크릿 어빌리티 「암무 단축」를 습득한다.
+5048,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮炎」を習得する。,시크릿 어빌리티 「축염」을 습득한다.,시크릿 어빌리티 「화염 단축」을 습득한다.
+5049,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮氷」を習得する。,시크릿 어빌리티 「축빙」을 습득한다.,시크릿 어빌리티 「빙결 단축」을 습득한다.
+5051,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮聖」を習得する。,시크릿 어빌리티 「축성」을 습득한다.,시크릿 어빌리티 「성 단축」을 습득한다.
+5052,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮闇」を習得する。,시크릿 어빌리티 「축암」을 습득한다.,시크릿 어빌리티 「어둠 단축」을 습득한다.
+5053,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮攻」を習得する。,시크릿 어빌리티 「축공」을 습득한다.,시크릿 어빌리티 「공격저하 단축」을 습득한다.
+5054,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮防」を習得する。,시크릿 어빌리티 「축방」을 습득한다.,시크릿 어빌리티 「방어저하 단축」을 습득한다.
+5055,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,"シークレットアビリティ「縮念」を習得する。""",시크릿 어빌리티 「축념」을 습득한다.,시크릿 어빌리티 「마공저하 단축」을 습득한다.
+5056,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮衰」を習得する。,시크릿 어빌리티 「축쇠」를 습득한다.,시크릿 어빌리티 「마방저하 단축」를 습득한다.
+5057,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮石」を習得する。,시크릿 어빌리티 「축석」을 습득한다.,시크릿 어빌리티 「석화 단축」을 습득한다.
+5058,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮金」を習得する。,시크릿 어빌리티 「축금」을 습득한다.,시크릿 어빌리티 「황금화 단축」을 습득한다.
+6486,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,"友体/友活/友攻/友魔/友防/友護
+上記アビリティが付与される
+《至高ジュエリー【戦徒】》と交換可能な
+リング状プレート","우체/우활/우공/우마/우방/우호
+위 어빌리티가 부여되는
+「지고의 주얼리【전도】」와 교환 가능한
+링 형태의 플레이트","우체/우활/우공/우마/우방/우호
+위 어빌리티가 부여되는
+「지고의 주얼리【전투의 사도】」와 교환 가능한
+링 형태의 플레이트"
+6488,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,"侵壊/侵護/減侵/豪握/強壮
+上記アビリティが付与される
+《至高ジュエリー【侵滅】》と交換可能な
+リング状プレート","침괴/침호/감침/호악/강장
+위 어빌리티가 부여되는
+「지고의 주얼리【침멸】」와 교환 가능한
+링 형태의 플레이트","침괴/침호/감침/호악/강장
+위 어빌리티가 부여되는
+「지고의 주얼리【정화】」와 교환 가능한
+링 형태의 플레이트"
+6489,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,"羅刹/夜叉/空滅/速離/聖体
+上記アビリティが付与される
+《至高ジュエリー【夜帝】》と交換可能な
+リング状プレート","나찰/야차/공멸/속리/성체
+위 어빌리티가 부여되는
+「지고의 주얼리【야제】」와 교환 가능한
+링 형태의 플레이트","나찰/야차/공멸/속리/성체
+위 어빌리티가 부여되는
+「지고의 주얼리【밤의 제왕】」와 교환 가능한
+링 형태의 플레이트"
+26527,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗毒】,습득의 서 [항독],습득의 서 [독 저항]
+26528,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗遅】,습득의 서 [항지],습득의 서 [지연 저항]
+26529,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗眠】,습득의 서 [항면],습득의 서 [수면 저항]
+26530,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗絶】,습득의 서 [항절],습득의 서 [기절 저항]
+26531,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗水】,습득의 서 [항수],습득의 서 [젖음 저항]
+26532,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗油】,습득의 서 [항유],습득의 서 [기름 저항]
+26533,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗封】,습득의 서 [항봉],습득의 서 [봉인 저항]
+26534,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗軟】,습득의 서 [항연],습득의 서 [연화 저항]
+26535,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗石】,습득의 서 [항석],습득의 서 [석화 저항]
+26536,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【抗金】,습득의 서 [항금],습득의 서 [황금화 저항]
+26537,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【親炎】,습득의 서 [친염],습득의 서 [화염 친화]
+26538,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【親氷】,습득의 서 [친빙],습득의 서 [빙결 친화]
+26540,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【親聖】,습득의 서 [친성],습득의 서 [성 친화]
+26541,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【親闇】,습득의 서 [친암],습득의 서 [어둠 친화]
+26542,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【制毒】,습득의 서 [제독],습득의 서 [독 제어]
+26543,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【制遅】,습득의 서 [제지],습득의 서 [지연 제어]
+26544,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【制眠】,습득의 서 [제면],습득의 서 [수면 제어]
+26545,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【制絶】,습득의 서【제절】,습득의 서【기절 제어】
+26546,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【速乾】,습득의 서【속건】,습득의 서【빠른 건조】
+26547,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【速清】,습득의 서【속청】,습득의 서【빠른 세정】
+26548,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮封】,습득의 서【축봉】,습득의 서【봉인 단축】
+26549,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮軟】,습득의 서【축연】,습득의 서【연화 단축】
+26550,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮焼】,습득의 서【축소】,습득의 서【화상 단축】
+26551,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮凍】,습득의 서【축동】,습득의 서【동결 단축】
+26552,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮霧】,습득의 서【축무】,습득의 서【암무 단축】
+26553,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮炎】,습득의 서【축염】,습득의 서【화염 단축】
+26554,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮氷】,습득의 서【축빙】,습득의 서【빙결 단축】
+26556,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮聖】,습득의 서【축성】,습득의 서【성 단축】
+26557,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮闇】,습득의 서【축암】,습득의 서【어둠 단축】
+26558,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮攻】,습득의 서【축공】,습득의 서【공격저하 단축】
+26559,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮防】,습득의 서【축방】,습득의 서【방어저하 단축】
+26560,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮念】,습득의 서【축념】,습득의 서【마공저하 단축】
+26561,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮衰】,습득의 서【축쇠】,습득의 서【마방저하 단축】
+26562,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮石】,습득의 서【축석】,습득의 서【석화 단축】
+26563,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮金】,습득의 서【축금】,습득의 서【황금화 단축】
+29811,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの無属性ダメージUP,시커 무속성 공격력 증가,시커의 무속성 대미지 UP
+29812,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの炎属性ダメージUP,시커 화염 속성 공격력 증가,시커의 화염 속성 대미지 UP
+29813,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの氷属性ダメージUP,시커 얼음 속성 공격력 증가,시커의 빙결 속성 대미지 UP
+29814,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの雷属性ダメージUP,시커 번개 속성 공격력 증가,시커의 뇌격 속성 대미지 UP
+29815,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの聖属性ダメージUP,시커 성 속성 공격력 증가,시커의 성 속성 대미지 UP
+29816,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,シーカーの闇属性ダメージUP,시커 어둠 속성 공격력 증가,시커의 어둠 속성 대미지 UP
+29817,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの斬属性ダメージUP,소서러 베기 속성 공격력 증가,소서러의 베기 속성 대미지 UP
+29818,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの打属性ダメージUP,소서러 타격 속성 공격력 증가,소서러의 타격 속성 대미지 UP
+29819,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの射属性ダメージUP,소서러 찌르기 속성 공격력 증가,소서러의 사격 속성 대미지 UP
+29820,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの無属性ダメージUP,소서러 무속성 공격력 증가,소서러의 무속성 대미지 UP
+29821,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの炎属性ダメージUP,소서러 화염 속성 공격력 증가,소서러의 화염 속성 대미지 UP
+29822,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの氷属性ダメージUP,소서러 얼음 속성 공격력 증가,소서러의 빙결 속성 대미지 UP
+29823,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの雷属性ダメージUP,소서러 번개 속성 공격력 증가,소서러의 뇌격 속성 대미지 UP
+29824,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの聖属性ダメージUP,소서러 성 속성 공격력 증가,소서러의 성 속성 대미지 UP
+29825,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ソーサラーの闇属性ダメージUP,소서러 어둠 속성 공격력 증가,소서러의 어둠 속성 대미지 UP
+29826,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの斬属性ダメージUP,엘리멘탈 아처 베기 속성 공격력 증가,엘리멘트 아처의 베기 속성 대미지 UP
+29827,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの打属性ダメージUP,엘리멘탈 아처 타격 속성 공격력 증가,엘리멘트 아처의 타격 속성 대미지 UP
+29828,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの射属性ダメージUP,엘리멘탈 아처 찌르기 속성 공격력 증가,엘리멘트 아처의 사격 속성 대미지 UP
+29829,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの無属性ダメージUP,엘리멘탈 아처 무속성 공격력 증가,엘리멘트 아처의 무속성 대미지 UP
+29830,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの炎属性ダメージUP,엘리멘탈 아처 화염 속성 공격력 증가,엘리멘트 아처의 화염 속성 대미지 UP
+29831,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの氷属性ダメージUP,엘리멘탈 아처 얼음 속성 공격력 증가,엘리멘트 아처의 빙결 속성 대미지 UP
+29832,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの雷属性ダメージUP,엘리멘탈 아처 번개 속성 공격력 증가,엘리멘트 아처의 뇌격 속성 대미지 UP
+29833,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの聖属性ダメージUP,엘리멘탈 아처 성 속성 공격력 증가,엘리멘트 아처의 성 속성 대미지 UP
+29834,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,エレメントアーチャーの闇属性ダメージUP,엘리멘탈 아처 어둠 속성 공격력 증가,엘리멘트 아처의 어둠 속성 대미지 UP
+29835,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの斬属性ダメージUP,워리어 베기 속성 공격력 증가,워리어의 베기 속성 대미지 UP
+29836,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの打属性ダメージUP,워리어 타격 속성 공격력 증가,워리어의 타격 속성 대미지 UP
+29837,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの射属性ダメージUP,워리어 찌르기 속성 공격력 증가,워리어의 사격 속성 대미지 UP
+29838,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの無属性ダメージUP,워리어 무속성 공격력 증가,워리어의 무속성 대미지 UP
+29839,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの炎属性ダメージUP,워리어 화염 속성 공격력 증가,워리어의 화염 속성 대미지 UP
+29840,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの氷属性ダメージUP,워리어 얼음 속성 공격력 증가,워리어의 빙결 속성 대미지 UP
+29841,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの雷属性ダメージUP,워리어 번개 속성 공격력 증가,워리어의 뇌격 속성 대미지 UP
+29842,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの聖属性ダメージUP,워리어 성 속성 공격력 증가,워리어의 성 속성 대미지 UP
+29843,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ウォリアーの闇属性ダメージUP,워리어 어둠 속성 공격력 증가,워리어의 어둠 속성 대미지 UP
+29844,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの斬属性ダメージUP,알케미스트 베기 속성 공격력 증가,알케미스트의 베기 속성 대미지 UP
+29845,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの打属性ダメージUP,알케미스트 타격 속성 공격력 증가,알케미스트의 타격 속성 대미지 UP
+29846,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの射属性ダメージUP,알케미스트 찌르기 속성 공격력 증가,알케미스트의 사격 속성 대미지 UP
+29847,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの無属性ダメージUP,알케미스트 무속성 공격력 증가,알케미스트의 무속성 대미지 UP
+29848,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの炎属性ダメージUP,알케미스트 화염 속성 공격력 증가,알케미스트의 화염 속성 대미지 UP
+29849,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの氷属性ダメージUP,알케미스트 얼음 속성 공격력 증가,알케미스트의 빙결 속성 대미지 UP
+29850,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの雷属性ダメージUP,알케미스트 번개 속성 공격력 증가,알케미스트의 뇌격 속성 대미지 UP
+29851,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの聖属性ダメージUP,연금술사의 성속성 대미지 상승,알케미스트의 성 속성 대미지 UP
+29852,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,アルケミストの闇属性ダメージUP,연금술사의 암속성 대미지 상승,알케미스트의 어둠 속성 대미지 UP
+29853,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの斬属性ダメージUP,스피릿 랜서의 참속성 대미지 상승,스피릿 랜서의 베기 속성 대미지 UP
+29854,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの打属性ダメージUP,스피릿 랜서의 타속성 대미지 상승,스피릿 랜서의 타격 속성 대미지 UP
+29855,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの射属性ダメージUP,스피릿 랜서의 사속성 대미지 상승,스피릿 랜서의 사격 속성 대미지 UP
+29856,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの無属性ダメージUP,스피릿 랜서의 무속성 대미지 상승,스피릿 랜서의 무속성 대미지 UP
+29857,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの炎属性ダメージUP,스피릿 랜서의 화속성 대미지 상승,스피릿 랜서의 화염 속성 대미지 UP
+29858,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの氷属性ダメージUP,스피릿 랜서의 빙속성 대미지 상승,스피릿 랜서의 빙결 속성 대미지 UP
+29859,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの雷属性ダメージUP,스피릿 랜서의 뇌속성 대미지 상승,스피릿 랜서의 뇌격 속성 대미지 UP
+29860,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの聖属性ダメージUP,스피릿 랜서의 성속성 대미지 상승,스피릿 랜서의 성 속성 대미지 UP
+29861,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,スピリットランサーの闇属性ダメージUP,스피릿 랜서의 암속성 대미지 상승,스피릿 랜서의 어둠 속성 대미지 UP
+29862,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの斬属性ダメージUP,하이셉터의 참속성 대미지 상승,하이 셉터의 베기 속성 대미지 UP
+29863,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの打属性ダメージUP,하이셉터의 타속성 대미지 상승,하이 셉터의 타격 속성 대미지 UP
+29864,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの射属性ダメージUP,하이셉터의 사속성 대미지 상승,하이 셉터의 사격 속성 대미지 UP
+29865,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの無属性ダメージUP,하이셉터의 무속성 대미지 상승,하이 셉터의 무속성 대미지 UP
+29866,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの炎属性ダメージUP,하이셉터의 화속성 대미지 상승,하이 셉터의 화염 속성 대미지 UP
+29867,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの氷属性ダメージUP,하이셉터의 빙속성 대미지 상승,하이 셉터의 빙결 속성 대미지 UP
+29868,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの雷属性ダメージUP,하이셉터의 뇌속성 대미지 상승,하이 셉터의 뇌격 속성 대미지 UP
+29869,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの聖属性ダメージUP,하이셉터의 성속성 대미지 상승,하이 셉터의 성 속성 대미지 UP
+29870,표기 통일(직업 대미지),ui\00_message\common\item_name.gmd,,ハイセプターの闇属性ダメージUP,하이셉터의 암속성 대미지 상승,하이 셉터의 어둠 속성 대미지 UP
+46608,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のリング【戦徒】,지고의 반지 [전도],지고의 반지 [전투의 사도]
+46609,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高の腕輪【戦徒】,지고의 팔찌 [전도],지고의 팔찌 [전투의 사도]
+46610,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のピアス【戦徒】,지고의 귀걸이 [전도],지고의 귀걸이 [전투의 사도]
+46614,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のリング【侵滅】,지고의 반지 [침멸],지고의 반지 [정화]
+46615,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高の腕輪【侵滅】,지고의 팔찌 [침멸],지고의 팔찌 [정화]
+46616,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のピアス【侵滅】,지고의 귀걸이 [침멸],지고의 귀걸이 [정화]
+46617,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のリング【夜帝】,지고의 반지 [야제],지고의 반지 [밤의 제왕]
+46618,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高の腕輪【夜帝】,지고의 팔찌 [야제],지고의 팔찌 [밤의 제왕]
+46619,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,至高のピアス【夜帝】,지고의 귀걸이 [야제],지고의 귀걸이 [밤의 제왕]
+46862,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,くつろぎのバスローブ【壮健】,휴식의 목욕 가운【장건】,휴식의 목욕 가운【건장】
+46904,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,白雪のタオル【壮健】,백설의 타월【장건】,백설의 타월【건장】
+46905,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,桜花のタオル【壮健】,벚꽃의 타월【장건】,벚꽃의 타월【건장】
+46906,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,薄水のタオル【壮健】,박수의 타월【장건】,박수의 타월【건장】
+46907,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,紫紺のタオル【壮健】,자색의 타월【장건】,자색의 타월【건장】
+46908,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,真朱のタオル【壮健】,진주의 타월【장건】,진주의 타월【건장】
+46909,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,夜闇のタオル【壮健】,야암의 타월【장건】,야암의 타월【건장】
+111613,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_1,敏動,민동,민첩 동작
+111614,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_2,狂刺,광자,광폭 찌르기
+111615,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_3,受崩,수붕,붕괴 방어
+111616,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_4,受倒,수도,반격
+111617,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_5,受拡,수확,반격 연장
+111618,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_6,受得,수득,피격 이득
+111620,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_8,闘勢,투세,전투 기세
+111621,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_9,本領,본령,본령 발휘
+111622,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_10,壮腕,장완,용맹 분투
+111623,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_11,強盾,강방,강한 방패
+111624,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_12,重盾,중방,무거운 방패
+111625,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_13,倒盾,도방,넘기는 방패
+111626,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_14,圧伏,압복,압도
+111627,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_15,剛腕,강완,강건한 팔
+111628,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_16,速離,속리,신속 이탈
+111630,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_18,硬台,경대,굳건한 자세
+111631,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_19,無衝,무충,충격 무효
+111634,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_22,亜護,아호,아인 방어
+111635,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_23,亜狙,아저,아인 특효
+111636,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_24,軟護,연호,연체 방어
+111637,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_25,軟狙,연저,연체 특효
+111640,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_28,力填,력전,강력 장전
+111641,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_29,充矢,충시,화살 증가
+111643,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_31,巧填,교전,숙련 장전
+111644,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_32,侵矢,침시,공세 화살
+111645,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_33,匠填,장전,완벽 장전
+111646,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_34,遅爆,지폭,지연 폭발
+111647,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_35,威姿,위자,위압 자세
+111648,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_36,逞姿,태자,늠름한 자세
+111649,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_37,拡撃,확격,공격 확장
+111650,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_38,快撃,쾌격,경쾌한 공격
+111651,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_39,芯撃,심격,급소 사격
+111652,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_40,剛力,강력,괴력
+111656,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_44,硬皮,경피,단단한 피부
+111657,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_45,射極,사극,필살 사격
+111658,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_46,陰討,음토,그림자 공격
+111659,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_47,翼護,익호,유익 방어
+111660,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_48,翼狙,익저,유익 특효
+111661,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_49,鬼護,귀호,귀인 방어
+111662,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_50,鬼狙,귀저,귀인 특효
+111663,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_51,緩療,완료,여유 치유
+111664,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_52,漲魂,창혼,투혼 충만
+111665,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_53,慈覧,자람,자애
+111666,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_54,長露,장로,장시간 노출
+111667,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_55,攻援,공원,공격 지원
+111668,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_56,魔援,마원,마법 지원
+111669,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_57,防助,방조,방어 보조
+111670,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_58,魔助,마조,마법 보조
+111674,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_62,防炎,방염,화염 방어
+111675,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_63,防氷,방빙,빙결 방어
+111676,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_64,防雷,방뢰,뇌격 방어
+111677,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_65,防聖,방성,성 방어
+111678,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_66,防闇,방암,어둠 방어
+111679,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_67,減炎,감염,화염 경감
+111680,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_68,減氷,감빙,빙결 경감
+111681,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_69,減雷,감뢰,뇌격 경감
+111682,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_70,減聖,감성,성 경감
+111683,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_71,減闇,감암,어둠 경감
+111684,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_72,腐護,부호,부사 방어
+111685,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_73,腐狙,부저,부사 특효
+111686,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_74,骨護,골호,해골 방어
+111687,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_75,骨狙,골저,해골 특효
+111688,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_76,積吸,적흡,축적 흡수
+111689,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_77,貪吸,탐흡,탐욕 흡수
+111690,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_78,猛吸,맹흡,강력 흡수
+111692,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_80,烈放,열방,맹렬 방출
+111693,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_81,過給,과급,과충전
+111694,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_82,合昇,합승,연계 상승
+111695,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_83,岐精,기정,분할 강화
+111696,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_84,長守,장수,절약 방어
+111697,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_85,壮防,장방,굳센 방어
+111698,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_86,抗意,항의,거부
+111699,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_87,見極,기극,간파
+111700,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_88,堅牢,견뢰,견고
+111701,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_89,揺抑,요억,흔들림 억제
+111702,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_90,即直,즉직,즉시 복귀
+111703,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_91,壮健,장건,건장
+111704,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_92,気鋭,기예,의욕 충만
+111705,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_93,開悟,개오,깨달음
+111706,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_94,精強,정강,왕성한 기력
+111707,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_95,専心,전심,전념
+111709,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_97,聖体,성체,성스러운 몸
+111712,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_100,緩刃,완인,여유 칼날
+111713,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_101,延縄,연승,로프 연장
+111714,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_102,縄倒,승도,로프 넘기기
+111715,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_103,避旋,피선,회전 회피
+111716,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_104,高跳,고도,높은 도약
+111718,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_106,耐揺,내요,진동 내성
+111719,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_107,握烈,악열,맹렬 붙잡기
+111720,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_108,与震,여진,진동 유발
+111721,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_109,躍握,약악,도약 붙잡기
+111722,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_110,耐握,내악,붙잡기 지속
+111723,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_111,悠握,유악,여유 붙잡기
+111725,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_113,跳避,비회피,도약 회피
+111726,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_114,優避,우월회피,상급 회피
+111727,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_115,鎮逸,진정회피,침착 회피
+111729,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_117,空撃,공격,공중 강타
+111730,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_118,烈墜,열추,파괴 낙하
+111731,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_119,翻防,번방,뒤집힘 방지
+111732,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_120,力跳,역점,도약 숙련
+111733,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_121,軽跳,경점,가벼운 반동
+111734,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_122,健着,건착,안정 착지
+111735,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_123,高舞,고무,보조 도약
+111736,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_124,巨護,거호,거인 방어
+111737,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_125,巨狙,거저,거인 특효
+111738,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_126,倒陣,도진,진형 붕괴
+111739,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_127,精唱,정창,정신 영창
+111740,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_128,麗詠,영,우아한 영창
+111741,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_129,続詠,속영,영창 지속
+111742,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_130,攻炎,공염,화염 공격
+111743,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_131,攻氷,공빙,빙결 공격
+111744,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_132,攻雷,공뢰,뇌격 공격
+111745,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_133,攻聖,공성,성 공격
+111746,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_134,攻闇,공암,어둠 공격
+111747,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_135,魔双,마쌍,이중 마법
+111748,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_136,魔増,마증,마법 증폭
+111749,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_137,至極,지극,평정
+111751,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_139,胆唱,담창,대담한 영창
+111752,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_140,魔抗,마항,끈질긴 영창
+111753,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_141,魔精,마정,마력 활성
+111754,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_142,楽揚,낙양,편안한 부유
+111755,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_143,延浮,연부,부유 연장
+111756,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_144,朗威,낭위,위압 무시
+111757,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_145,魔護,마호,마물 방어
+111758,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_146,魔狙,마저,마물 특효
+111759,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_147,呪護,주호,저주 방어
+111760,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_148,呪狙,주저,저주 특효
+111761,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_149,人護,인호,인간 방어
+111762,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_150,人狙,인저,인간 특효
+111763,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_151,一勢,일세,결속의 힘
+111764,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_152,拡助,확조,지원 확장
+111765,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_153,迅矢,신시,신속 화살
+111766,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_154,延助,연조,지원 연장
+111767,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_155,執矢,집시,집요한 화살
+111768,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_156,延療,연료,치유 연장
+111769,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_157,自療,자료,자가 치유
+111770,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_158,急活,급활,긴급 회복
+111771,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_159,甦活,소활,회복 폭발
+111772,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_160,勢命,세명,생명 활력
+111773,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_161,煌命,황명,생명 불꽃
+111774,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_162,自回,자회,자가 회복
+111776,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_164,忌吸,기흡,죽음의 흡수
+111779,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_167,炎襲,염습,화염 강화
+111780,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_168,氷襲,빙습,빙결 강화
+111781,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_169,雷襲,뢰습,뇌격 강화
+111782,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_170,聖襲,성습,성 강화
+111783,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_171,闇襲,암습,어둠 강화
+111784,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_172,霊護,영호,영체 방어
+111785,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_173,霊狙,영저,영체 특효
+111786,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_174,造護,조호,조마 방어
+111787,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_175,造狙,조저,조마 특효
+111788,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_176,超恨,초한,적의 폭증
+130580,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_177,湧恨,용한,적의 분출
+130581,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_178,熟怨,숙원,깊은 원한
+130582,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_179,延恨,연한,적의 지속
+130583,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_180,斬刻,참각,난도질
+130584,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_181,初突,초돌,선제 공격
+130585,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_182,重当,중당,묵직한 타격
+130586,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_183,烈当,열당,맹렬한 타격
+130587,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_184,迫当,박당,불사의 힘
+130588,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_185,精当,정당,내면의 힘
+130589,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_186,重攻,중공,묵직한 공격
+130590,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_187,勇攻,용공,용맹 공격
+130591,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_188,迫攻,박공,궁지 공격
+130592,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_189,精攻,정공,투지
+130593,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_190,高堪,고감,꿋꿋한 자세
+130594,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_191,壮堪,장감,흉포
+130595,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_192,迫堪,박감,궁지 버티기
+130596,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_193,精堪,정감,결연
+130598,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_195,硬身,경신,단단한 몸
+130600,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_197,重歩,중보,묵직한 걸음
+130601,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_198,穿歩,천보,능숙한 발놀림
+130602,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_199,獣護,수호,짐승 방어
+130603,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_200,獣狙,수저,짐승 특효
+130604,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_201,挑錬,도련,도전자
+130605,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_202,侵錬,침련,연금 침식
+130606,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_203,延囮,연유,미끼 연장
+130607,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_204,速錬,속련,숙련
+130608,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_205,舞活,무활,활기찬 춤
+130609,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_206,奪視,탈시,시선 강탈
+130610,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_207,華療,화료,화려한 치유
+130611,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_208,乖視,괴시,시선 회피
+130612,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_209,慎療,신료,신중한 치유
+130613,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_210,優撫,우무,다정한 손길
+130614,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_211,顕在,현재,존재 부각
+130615,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_212,薄在,박재,존재감 감소
+130616,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_213,盛精,성정,넘치는 생기
+130617,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_214,絶威,절위,압도적 위엄
+130618,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_215,快動,쾌동,경쾌한 움직임
+130619,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_216,迫技,박기,궁지 기술
+130620,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_217,快登,쾌등,경쾌한 등반
+130621,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_218,即復,즉복,즉시 회복
+130622,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_219,魂吸,혼흡,영혼 흡수
+130623,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_220,英気,영기,영웅 기개
+130624,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_221,快錬,쾌련,세련된 자세
+130625,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_222,錬護,련호,연금 방어
+130626,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_223,錬狙,련저,연금 특효
+130627,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_224,竜護,용호,용족 방어
+130628,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_225,竜狙,용저,용족 특효
+130629,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_226,宝眼,보안,보물의 눈
+130631,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_228,探採,탐채,채집
+130632,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_229,巧掘,교굴,숙련 채굴
+130633,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_230,流断,유단,흐름 끊기
+130634,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_231,柔触,유촉,부드러운 손길
+130635,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_232,延泉,연천,회복샘 연장
+130636,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_233,羽踏,우답,깃털 발걸음
+130639,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_236,強投,강투,강한 투척
+130640,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_237,効延,효연,효과 연장
+130643,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_240,新攻,신공,초승 공격
+130644,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_241,新防,신방,초승 방어
+130645,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_242,月攻,월공,월광 공격
+130646,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_243,月防,월방,월광 방어
+130647,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_244,雨攻,우공,우천 공격
+130648,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_245,雨防,우방,우천 방어
+130651,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_248,抗毒,항독,독 저항
+130652,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_249,抗遅,항지,지연 저항
+130653,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_250,抗眠,항면,수면 저항
+130654,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_251,抗絶,항절,기절 저항
+130655,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_252,抗水,항수,젖음 저항
+130656,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_253,抗油,항유,기름 저항
+130657,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_254,抗封,항봉,봉인 저항
+130658,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_255,抗軟,항연,연화 저항
+130659,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_256,抗石,항석,석화 저항
+130660,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_257,抗金,항금,황금화 저항
+130661,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_258,親炎,친염,화염 친화
+130662,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_259,親氷,친빙,빙결 친화
+130663,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_260,親雷,친뇌,뇌격 친화
+130664,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_261,親聖,친성,성 친화
+130665,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_262,親闇,친암,어둠 친화
+130666,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_263,制毒,제독,독 제어
+130667,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_264,制遅,제지,지연 제어
+130668,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_265,制眠,제면,수면 제어
+130669,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_266,制絶,제절,기절 제어
+130670,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_267,速乾,속건,빠른 건조
+130671,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_268,速清,속청,빠른 세정
+130672,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_269,縮封,축봉,봉인 단축
+130673,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_270,縮軟,축연,연화 단축
+130674,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_271,縮石,축석,석화 단축
+130675,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_272,縮金,축금,황금화 단축
+130676,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_273,縮焼,축소,화상 단축
+130677,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_274,縮凍,축동,동결 단축
+130678,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_275,縮霧,축무,암무 단축
+130679,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_276,縮炎,축염,화염 단축
+130680,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_277,縮氷,축빙,빙결 단축
+130681,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_278,縮雷,축뇌,뇌격 단축
+130682,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_279,縮聖,축성,성 단축
+130683,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_280,縮闇,축암,어둠 단축
+130684,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_281,縮攻,축공,공격저하 단축
+130685,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_282,縮防,축방,방어저하 단축
+130686,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_283,縮念,축념,마공저하 단축
+130687,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_284,縮衰,축쇠,마방저하 단축
+130688,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_285,増褒,증포,보상 증가
+130689,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_286,加奨,가장,추가 보상
+130690,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_287,匠誉,장예,장인의 명예
+130691,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_288,輝褒,휘포,빛나는 포상
+130692,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_289,勝賞,승상,승리 포상
+130693,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_290,共得,공득,공동 획득
+130694,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_291,奏狩,주수,음악: 몬스터 헌터
+130695,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_292,奏泣,주읍,음악: 데빌 메이 크라이
+130696,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_293,奏隆,주륭,음악: 스트리트 파이터
+130697,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_294,奏撃,주격,음악: 록맨
+130698,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_295,奏魔,주마,음악: 마계촌
+130701,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_298,崩攻,붕공,분쇄 일격
+130704,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_301,堅盾,견순,견고한 방패
+130707,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_304,硬溜,경류,경화
+130710,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_307,快突,쾌돌,경쾌한 찌르기
+130713,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_310,硬構,경구,단단한 자세
+130716,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_313,救耐,구내,구조 지원
+130719,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_316,増精,증정,정신 증강
+130722,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_319,至弓,지궁,궁극의 활
+130725,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_322,扶魔,부마,보조 증강
+130728,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_325,滅吸,멸흡,흡수 차단
+130731,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_328,魔猛,마맹,마법 맹공
+130734,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_331,硬気,경기,굳센 기백
+130737,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_334,護治,호치,보호 치유
+130740,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_337,集視,집시,시선 집중
+130743,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_340,盾崩,순붕,방패 붕괴
+130746,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_343,快視,쾌시,쾌적한 시야
+130749,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_346,走耐,주내,질주 지속
+130752,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_349,深攻,심공,깊은 공세
+130758,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_355,快転,쾌전,경쾌한 구르기
+130761,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_358,硬浮,경부,굳건한 부유
+130764,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_361,倒力,도력,넘어뜨리는 힘
+130767,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_364,減属,감속,속성 경감
+130770,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_367,快漂,쾌표,경쾌한 표류
+130773,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_370,快進,쾌진,꾸준한 전진
+130776,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_373,魔遮,마차,마법 차단
+130779,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_376,救魔,구마,구원 마법
+130782,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_379,通眼,통안,꿰뚫는 눈
+130785,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_382,快閃,쾌섬,쾌속 섬광
+130788,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_385,攻遮,공차,공격 엄호
+130791,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_388,豪握,호악,강력 붙잡기
+130794,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_391,残恨,잔한,원한 잔류
+130797,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_394,硬視,경시,시야 유지
+130803,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_400,空滅,공멸,공중 섬멸
+130806,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_403,守錬,수연,방어 연금
+130807,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_404,迫霊,박령,궁지의 혼
+130808,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_405,延霊,연령,영혼 연장
+130809,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_406,避影,피영,그림자 회피
+130810,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_407,延臨,연림,임전 연장
+130811,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_408,臨活,림활,임전 활성
+130812,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_409,避活,피활,회피 활성
+130813,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_410,長癒,장유,장기 치유
+130814,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_411,採霊,채령,채집의 혼
+130815,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_412,封芽,봉아,싹 봉인
+130816,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_413,臨堅,림견,임전 견고
+130817,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_414,避霊,피령,회피의 혼
+130818,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_415,採癒,채유,채집 치유
+130819,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_416,触攻,촉공,접촉 공격
+130820,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_417,触防,촉방,접촉 방어
+130821,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_418,触快,촉쾌,경쾌한 접촉
+130822,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_419,強附,강부,강력 부여
+130823,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_420,合附,합부,부여 연계
+130824,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_421,属附,속부,속성 부여
+130825,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_422,耐附,내부,내성 부여
+130828,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_425,減侵,감침,침식 경감
+130829,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_426,侵壊,침괴,침식 파괴
+130830,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_427,侵護,침호,침식 방어
+130831,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_428,侵狙,침저,침식 특효
+130836,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_433,救攻,구공,구조 공격
+130842,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_439,防属,방속,속성 방어
+130843,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_440,霊蓄,영축,영혼 축적
+130844,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_441,友体,우체,동료 체력
+130845,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_442,友活,우활,동료 스태미나
+130846,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_443,友攻,우공,동료 공격
+130847,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_444,友魔,우마,동료 마법
+130848,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_445,友防,우방,동료 방어
+130849,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_446,友護,우호,동료 마법 방어
+130850,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_447,追討,추토,추격
+130863,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_460,減重,감중,무게 경감
+130864,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_461,戦徒,전도,전투의 사도
+130866,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_463,侵滅,침멸,정화
+130867,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_464,夜帝,야제,밤의 제왕
+130868,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_466,魔充,마충,마력 충전
+130869,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_467,延印,연인,문장 연장
+130870,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_468,危吸,위흡,위기 흡수
+130871,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_469,強弾,강탄,강력 사격
+130872,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_470,増魔,증마,마력 증강
+130873,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_471,転魔,전마,마력 전환
+130874,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_472,加吸,가흡,흡수 증가
+130875,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_473,烈翔,열상,맹렬한 비상
+130876,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_474,翔剣,상검,비상검
+130877,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_475,節魔,절마,마력 절약
+130878,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_477,節補,절보,보조 절약
+130879,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_478,護印,호인,수호 문장
+130881,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_480,源運,원운,행운의 원천
+130883,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_482,厚足,후족,육중한 발
+130884,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_483,活鎮,활진,활력 제압
+130885,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_484,勇鎮,용진,용맹 제압
+130886,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_485,迫鎮,박진,궁지 제압
+130887,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_486,精鎮,정진,정신 제압
+130888,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_487,抗滅,항멸,약화 저항
+130889,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_488,甲砕,갑쇄,갑옷 분쇄
+130890,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_489,戦護,전호,전갑 방어
+130891,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_490,戦狙,전저,전갑 특효
+130896,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_497,常撃,상격,일반 공격
+130897,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_498,移撃,이격,돌진 공격
+130902,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_503,流撃,유격,흐르는 공격
+130903,어빌리티 이름,ui\00_message\skill\ability_name.gmd,ABILITY_NAME_504,偏吸,편흡,편향 흡수
+5034,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「親雷」を習得する。,시크릿 어빌리티 「친뢰」를 습득한다.,시크릿 어빌리티 「뇌격 친화」를 습득한다.
+5050,어빌리티 이름(참조),ui\00_message\common\item_info.gmd,,シークレットアビリティ「縮雷」を習得する。,시크릿 어빌리티 「축뢰」를 습득한다.,시크릿 어빌리티 「뇌격 단축」를 습득한다.
+26539,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【親雷】,습득의 서 [친뢰],습득의 서 [뇌격 친화]
+26555,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,習得の書【縮雷】,습득의 서【축뢰】,습득의 서【뇌격 단축】
+28232,어빌리티 이름(참조),ui\00_message\common\item_name.gmd,,閃きの果実【集視】,영감의 열매 [도발],영감의 열매 [시선 집중]
+74903,어빌리티 이름(참조),ui\00_message\pw\pwtlk01.gmd,,<COL B6FF01>《集視》ご安心を、私が前に出ます！</COL>,"<COL B6FF01>[도발]
+안심하세요, 제가 앞에 나서겠습니다!</COL>","<COL B6FF01>[시선 집중]
+안심하세요, 제가 앞에 나서겠습니다!</COL>"
+74904,어빌리티 이름(참조),ui\00_message\pw\pwtlk01.gmd,,<COL B6FF01>《集視》覚者さま、私が敵を引き受けます！</COL>,"<COL B6FF01>[도발]
+각성자님, 제가 적을 유인하겠습니다!</COL>","<COL B6FF01>[시선 집중]
+각성자님, 제가 적을 유인하겠습니다!</COL>"
+75054,어빌리티 이름(참조),ui\00_message\pw\pwtlk02.gmd,,<COL B6FF01>《集視》こ、こらー！　こっちだぞー！</COL>,"<COL B6FF01>[도발]
+이, 이봐! 이쪽이다!</COL>","<COL B6FF01>[시선 집중]
+이, 이봐! 이쪽이다!</COL>"
+75055,어빌리티 이름(참조),ui\00_message\pw\pwtlk02.gmd,,<COL B6FF01>《集視》ま、前に、出ます――！</COL>,"<COL B6FF01>[도발]
+아, 앞으로 나가겠습니다――!</COL>","<COL B6FF01>[시선 집중]
+아, 앞으로 나가겠습니다――!</COL>"
+75207,어빌리티 이름(참조),ui\00_message\pw\pwtlk03.gmd,,<COL B6FF01>《集視》まとめて受けて立つ！　かかってこい！</COL>,"<COL B6FF01>[도발]
+전부 받아내 주마! 덤벼라!</COL>","<COL B6FF01>[시선 집중]
+전부 받아내 주마! 덤벼라!</COL>"
+75208,어빌리티 이름(참조),ui\00_message\pw\pwtlk03.gmd,,<COL B6FF01>《集視》今こそ、道を切り開く時！</COL>,"<COL B6FF01>[도발]
+지금이야말로 길을 개척할 때!</COL>","<COL B6FF01>[시선 집중]
+지금이야말로 길을 개척할 때!</COL>"
+75360,어빌리티 이름(참조),ui\00_message\pw\pwtlk04.gmd,,<COL B6FF01>《集視》作戦として敵を引き付けよう</COL>,"<COL B6FF01>[도발]
+작전으로서 적을 유인하겠다.</COL>","<COL B6FF01>[시선 집중]
+작전으로서 적을 유인하겠다.</COL>"
+75361,어빌리티 이름(참조),ui\00_message\pw\pwtlk04.gmd,,<COL B6FF01>《集視》前線への侵攻を開始</COL>,"<COL B6FF01>[도발]
+전선으로의 침공을 개시한다.</COL>","<COL B6FF01>[시선 집중]
+전선으로의 침공을 개시한다.</COL>"
+75514,어빌리티 이름(참조),ui\00_message\pw\pwtlk05.gmd,,"<COL B6FF01>《集視》いいでしょう、
+しばらくはおとり役をこなしますよ</COL>","<COL B6FF01>[도발]
+좋습니다, 잠시 동안 미끼 역할을 하죠.</COL>","<COL B6FF01>[시선 집중]
+좋습니다, 잠시 동안 미끼 역할을 하죠.</COL>"
+75515,어빌리티 이름(참조),ui\00_message\pw\pwtlk05.gmd,,<COL B6FF01>《集視》勇猛なる私の背を、しかとその目に！</COL>,"<COL B6FF01>[도발]
+용맹한 제 등을, 똑똑히 눈에 새기세요!</COL>","<COL B6FF01>[시선 집중]
+용맹한 제 등을, 똑똑히 눈에 새기세요!</COL>"
+75667,어빌리티 이름(참조),ui\00_message\pw\pwtlk06.gmd,,<COL B6FF01>《集視》はい、注目！</COL>,"<COL B6FF01>[도발] 자, 주목해!</COL>","<COL B6FF01>[시선 집중] 자, 주목해!</COL>"
+75668,어빌리티 이름(참조),ui\00_message\pw\pwtlk06.gmd,,<COL B6FF01>《集視》よーし、ぼくが前に行きます！</COL>,"<COL B6FF01>[도발] 좋아, 내가 앞으로 나갈게!</COL>","<COL B6FF01>[시선 집중] 좋아, 내가 앞으로 나갈게!</COL>"
+75820,어빌리티 이름(참조),ui\00_message\pw\pwtlk07.gmd,,<COL B6FF01>《集視》全員、俺の獲物だぁぁ！</COL>,"<COL B6FF01>[도발] 전원, 내 먹잇감이다!</COL>","<COL B6FF01>[시선 집중] 전원, 내 먹잇감이다!</COL>"
+75821,어빌리티 이름(참조),ui\00_message\pw\pwtlk07.gmd,,<COL B6FF01>《集視》死にたいやつからかかって来な</COL>,<COL B6FF01>[도발] 죽고 싶은 녀석부터 덤벼라</COL>,<COL B6FF01>[시선 집중] 죽고 싶은 녀석부터 덤벼라</COL>
+75973,어빌리티 이름(참조),ui\00_message\pw\pwtlk08.gmd,,<COL B6FF01>《集視》前に出るわ！　見ていてね、マスター！</COL>,"<COL B6FF01>[도발] 앞에 나설게! 지켜봐 줘, 마스터!</COL>","<COL B6FF01>[시선 집중] 앞에 나설게! 지켜봐 줘, 마스터!</COL>"
+75974,어빌리티 이름(참조),ui\00_message\pw\pwtlk08.gmd,,<COL B6FF01>《集視》少しだけ、目立たせてもらうわね</COL>,"<COL B6FF01>[도발] 조금만, 눈에 띄게 해 줄게</COL>","<COL B6FF01>[시선 집중] 조금만, 눈에 띄게 해 줄게</COL>"

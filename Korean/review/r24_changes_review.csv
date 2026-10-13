@@ -1,0 +1,65 @@
+﻿csv_row,구분,gmd,key,일본어 원문,이전,r24
+111940,용어(정형문→상용구),ui\00_message\tutorial_guide\steps\tutorial_guide_step29.gmd,TUTORIAL_STEP_145,"<COL ffdc78>《ショートカット》</COL>はさまざまな機能を
+楽なボタンで呼び出せる便利な短縮操作です
+回復アイテム、チャット定型文、メニューや
+ポーン命令など、とっさの使用が
+生死を分けることもあります
+すぐ使いたいアイテムや機能は
+あらかじめ登録しておきましょう","<COL ffdc78>숏컷</COL> 은 다양한 기능을
+간편한 버튼 조작으로 호출할 수 있는 편리한 기능입니다.
+회복 아이템, 채팅 정형문, 메뉴나
+폰 명령 등을 즉시 사용하는 것이
+생사를 가를 수도 있습니다.
+급하게 사용해야 할 아이템이나 기능은
+미리 등록해 두십시오.","<COL ffdc78>숏컷</COL> 은 다양한 기능을
+간편한 버튼 조작으로 호출할 수 있는 편리한 기능입니다.
+회복 아이템, 채팅 상용구, 메뉴나
+폰 명령 등을 즉시 사용하는 것이
+생사를 가를 수도 있습니다.
+급하게 사용해야 할 아이템이나 기능은
+미리 등록해 두십시오."
+111951,용어(정형문→상용구),ui\00_message\tutorial_guide\steps\tutorial_guide_step29.gmd,TUTORIAL_STEP_409,"＜登録方法：簡易コミュニケーション＞
+【<KC UI_GAME_MENU>】ゲームメニューの
+《コミュニケーション》の《定型文》《エモート》や
+《キャラクター》の《ポーン命令》で登録項目を選択
+<PADM>　【<KC UI_SC_COMMU>】を押して【 <KC UI_SC_COMMU1>／<KC UI_SC_COMMU2>／<KC UI_SC_COMMU3>／<KC UI_SC_COMMU4> 】<KEYM>　【<KC UI_MSC1> ～ <KC UI_MSC8>】任意に割り当て</KEYM>
+<PADM>　　　　　　　　【 <KC UI_SC_COMMU5>／<KC UI_SC_COMMU6>／<KC UI_SC_COMMU7>／<KC UI_SC_COMMU8> 】
+　　　　　　※任意に割り当て</PADM><KEYM>　　　※呼び出し時は【<KC UI_SC_COMMU>】で登録ウィンドウ切替</KEYM>
+<PADM>　【<KC UI_SC_COMMU_PAGE_L>／<KC UI_SC_COMMU_PAGE_R>】<KEYM>　【<KC UI_MSC9>／<KC UI_MSC10>】</KEYM>セット切替（３セットまで可能）","등록 방법 - 간이 커뮤니케이션:
+[<KC UI_GAME_MENU>] 게임 메뉴의
+커뮤니케이션의 정형문, 에모트나
+캐릭터의 폰 명령에서 등록 항목을 선택하십시오.
+<PADM> [<KC UI_SC_COMMU>]을 누르고 [<KC UI_SC_COMMU1>
+/<KC UI_SC_COMMU2>/<KC UI_SC_COMMU3>
+/<KC UI_SC_COMMU4>] <KEYM> [<KC UI_MSC1>
+ ～ <KC UI_MSC8>] 임의로 할당</KEYM>
+<PADM> [<KC UI_SC_COMMU5>/<KC UI_SC_COMMU6>/<KC UI_SC_COMMU7>
+/<KC UI_SC_COMMU8>]
+*임의로 할당</PADM><KEYM> *[<KC UI_SC_COMMU>]을 눌러 간이 채팅
+창 전환</KEYM>
+<PADM> [<KC UI_SC_COMMU_PAGE_L>/<KC UI_SC_COMMU_PAGE_R>] <KEYM> [<KC UI_MSC9>/<KC UI_MSC10>] </KEYM> 세트 전환(3세트까지 가능)","등록 방법 - 간이 커뮤니케이션:
+[<KC UI_GAME_MENU>] 게임 메뉴의
+커뮤니케이션의 상용구, 에모트나
+캐릭터의 폰 명령에서 등록 항목을 선택하십시오.
+<PADM> [<KC UI_SC_COMMU>]을 누르고 [<KC UI_SC_COMMU1>
+/<KC UI_SC_COMMU2>/<KC UI_SC_COMMU3>
+/<KC UI_SC_COMMU4>] <KEYM> [<KC UI_MSC1>
+ ～ <KC UI_MSC8>] 임의로 할당</KEYM>
+<PADM> [<KC UI_SC_COMMU5>/<KC UI_SC_COMMU6>/<KC UI_SC_COMMU7>
+/<KC UI_SC_COMMU8>]
+*임의로 할당</PADM><KEYM> *[<KC UI_SC_COMMU>]을 눌러 간이 채팅
+창 전환</KEYM>
+<PADM> [<KC UI_SC_COMMU_PAGE_L>/<KC UI_SC_COMMU_PAGE_R>] <KEYM> [<KC UI_MSC9>/<KC UI_MSC10>] </KEYM> 세트 전환(3세트까지 가능)"
+114850,용어(정형문→상용구),ui\00_message\ui\GPShop_res.gmd,OS_catalog_fixed_phrase,ボイス定型文,보이스 정형문,보이스 상용구
+118679,용어(정형문→상용구),ui\00_message\ui\common_dialog.gmd,OS_annnounce_for_fixed_phrase,対象のボイス定型文が使用可能になりました,대상 보이스 정형문을 사용할 수 있습니다,대상 보이스 상용구를 사용할 수 있습니다
+119505,용어(정형문→상용구),ui\00_message\ui\common_message.gmd,common_mymsg,マイ定型文セット,마이 정형문 세트,내 상용구 세트
+119506,용어(정형문→상용구),ui\00_message\ui\common_message.gmd,common_mymsg,マイ定型文セット,마이 정형문 세트,내 상용구 세트
+120780,용어(정형문→상용구),ui\00_message\ui\game_menu_win.gmd,menu_fixed_pattern,定型文,정형문,상용구
+120797,용어(정형문→상용구),ui\00_message\ui\game_menu_win.gmd,menu_my_fixed_pattern,マイ定型文,마이 정형문,내 상용구
+121446,용어(정형문→상용구),ui\00_message\ui\item_work.gmd,ITEM_WORK_139,定型文【解放アイテム専用】,정형문【해방 아이템 전용】,상용구【해방 아이템 전용】
+124240,용어(정형문→상용구),ui\00_message\ui\simple_communication.gmd,SC_MSG_DIALOG_TOLL,"選択したボイス定型文は未購入の定型文です
+オンラインショップで購入できます","선택한 보이스 정형문은 미구매 상태입니다
+온라인 상점에서 구매할 수 있습니다","선택한 보이스 상용구는 미구매 상태입니다
+온라인 상점에서 구매할 수 있습니다"
+124254,용어(정형문→상용구),ui\00_message\ui\simple_communication.gmd,SC_MSG_MYPHRASE_J,マイ定型文,마이 정형문,내 상용구
+124260,용어(정형문→상용구),ui\00_message\ui\simple_communication.gmd,SC_MSG_TMPPHRASE_J,定型文,정형문,상용구

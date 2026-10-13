@@ -340,6 +340,9 @@ def main() -> int:
     ap.add_argument("--y-offset", type=int, default=3)
     ap.add_argument("--pages", default="0,1,2,3,4,5,6,7,8")
     ap.add_argument("--readme-note", default="")
+    ap.add_argument("--readme-file", default="", help="README_KO.txt를 이 파일 내용으로 통째로 교체")
+    ap.add_argument("--game-dir", default="", help="기준 패키지에 없는 ARC를 읽어 올 게임 폴더(원본 파일)")
+    ap.add_argument("--tex-patch", default="", help="텍스처 교체 목록 JSON (arc, tex, png)")
     a = ap.parse_args()
 
     base_pkg, out_pkg = Path(a.base_package), Path(a.out)
@@ -357,6 +360,9 @@ def main() -> int:
     manifest = json.loads((base_pkg / "package_manifest.json").read_text(encoding="utf-8-sig"))
     payload_root = base_pkg / "payload"
     shipped = {norm(f["path"]).removeprefix("nativepc\\rom\\"): f for f in manifest["files"]}
+    extra_src: dict[str, bytes] = {}
+    def load_arc(rel: str) -> bytes:
+        return extra_src[rel] if rel in extra_src else (payload_root / Path(shipped[rel]["path"])).read_bytes()
 
     # 1) CSV 비교
     log("[1/5] CSV 비교")
@@ -371,12 +377,36 @@ def main() -> int:
             return 2
     arcs_to_patch = sorted({norm(new[i][5]) for i in changed_rows})
     log(f"  바뀐 행: {len(changed_rows):,} / 영향받는 ARC: {len(arcs_to_patch):,}")
-    missing = [x for x in arcs_to_patch if x not in shipped]
+    tex_specs = []
+    if a.tex_patch:
+        tp = Path(a.tex_patch)
+        tex_specs = json.loads(tp.read_text(encoding="utf-8"))
+        for t in tex_specs:
+            t["arc"] = norm(t["arc"])
+            t["png"] = str((tp.parent / t["png"]).resolve())
+    missing = sorted({x for x in arcs_to_patch + [t["arc"] for t in tex_specs] if x not in shipped})
     if missing:
-        print("[오류] 기준 패키지에 없는 ARC가 있습니다(원본 게임 파일 필요):")
+        rom = Path(a.game_dir) / "nativePC" / "rom" if a.game_dir else None
+        if rom is None or not rom.is_dir():
+            print("[오류] 기준 패키지에 없는 ARC가 있습니다. --game-dir 로 게임 폴더를 지정하세요:")
+            for x in missing:
+                print("   ", x)
+            return 2
+        log(f"  게임 폴더에서 원본 ARC {len(missing)}개를 추가로 가져옵니다")
         for x in missing:
-            print("   ", x)
-        return 2
+            cur, parts = rom, x.split("\\")
+            for part in parts:
+                hit = [c for c in cur.iterdir() if c.name.lower() == part] if cur.is_dir() else []
+                if not hit:
+                    print(f"[오류] 게임 폴더에 파일이 없습니다: {x}")
+                    return 2
+                cur = hit[0]
+            relpath = "nativePC/rom/" + cur.relative_to(rom).as_posix()
+            data = cur.read_bytes()
+            entry = {"path": relpath, "original_sha256": sha(data), "patched_sha256": sha(data), "size": len(data)}
+            manifest["files"].append(entry)
+            shipped[x] = entry
+            extra_src[x] = data
     lookup = defaultdict(lambda: defaultdict(list))
     for r in new[1:]:
         lookup[norm(r[5])][norm(r[4])].append(r)
@@ -386,8 +416,7 @@ def main() -> int:
     # 2) 텍스트 ARC 재패킹
     log("[2/5] 문장 ARC 다시 패킹")
     for rel in arcs_to_patch:
-        p = payload_root / Path(shipped[rel]["path"])
-        arc = Arc(p.read_bytes())
+        arc = Arc(load_arc(rel))
         n = 0
         for i, e in enumerate(arc.entries):
             if e["crc"] != GMD_CRC:
@@ -404,10 +433,37 @@ def main() -> int:
             new_files[rel] = arc.save()
         log(f"  {rel}: 문장 {n}개 교체")
 
+    # 2-b) 텍스처 글자 교체
+    if tex_specs:
+        log("[2b] 텍스처 글자 교체")
+    for t in tex_specs:
+        arc = Arc(new_files[t["arc"]] if t["arc"] in new_files else load_arc(t["arc"]))
+        hit = [i for i, e in enumerate(arc.entries) if e["crc"] == TEX_CRC and e["name"].lower() == t["tex"].lower()]
+        if not hit:
+            print(f"[오류] 텍스처를 찾을 수 없습니다: {t['arc']} / {t['tex']}")
+            return 2
+        tex = arc.read(hit[0])
+        h8, h12 = struct.unpack_from("<II", tex, 8)
+        w, h = (h8 >> 6) & 0x1FFF, (h8 >> 19) & 0x1FFF
+        fmt, data_off = (h12 >> 8) & 0xFF, struct.unpack_from("<I", tex, 16)[0]
+        if (h8 & 0x3F) != 1 or fmt not in (0x17, 0x18, 0x2A, 0x2B) or len(tex) - data_off != w * h:
+            print(f"[오류] 지원하지 않는 TEX 형식: {t['tex']} (fmt 0x{fmt:X}, mip {h8 & 0x3F})")
+            return 2
+        before = Image.open(io.BytesIO(dds_from_bc3(w, h, tex[data_off:]))).convert("RGBA")
+        after = Image.open(t["png"]).convert("RGBA")
+        if after.size != before.size:
+            print(f"[오류] PNG 크기가 텍스처와 다릅니다: {t['png']}")
+            return 2
+        body = bytearray(tex[data_off:])
+        nblk = patch_bc3(body, w, before, after)
+        arc.replace(hit[0], bytes(tex[:data_off]) + bytes(body))
+        new_files[t["arc"]] = arc.save()
+        log(f"  {t['arc']} / {t['tex']}: 블록 {nblk}개 교체")
+
     # 3) 폰트
     log("[3/5] 폰트 글자 추가")
     gui_rel = "ui\\gui_cmn.arc"
-    gui = Arc((payload_root / Path(shipped[gui_rel]["path"])).read_bytes())
+    gui = Arc(new_files[gui_rel] if gui_rel in new_files else load_arc(gui_rel))
     gi = gui.find(GFD_CRC, "ui\\00_font\\ddo_font_jpn_win")[0]
     gfd = bytearray(gui.read(gi))
     gcount = struct.unpack_from("<I", gfd, 0x1C)[0]
@@ -511,15 +567,20 @@ def main() -> int:
     shutil.copytree(base_pkg, out_pkg)
     for rel, blob in new_files.items():
         f = shipped[rel]
-        (out_pkg / "payload" / Path(f["path"])).write_bytes(blob)
+        dst = out_pkg / "payload" / Path(f["path"])
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        dst.write_bytes(blob)
         f["patched_sha256"] = sha(blob)
         f["size"] = len(blob)
     manifest["version"] = a.version
     manifest["created_at"] = dt.datetime.now(dt.timezone.utc).isoformat()
     manifest["candidate_csv_sha256"] = sha(Path(a.new_csv))
     manifest["build_note"] = f"incremental build from {base_pkg.name}"
+    manifest["file_count"] = len(manifest["files"])
     (out_pkg / "package_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     (out_pkg / "VERSION").write_text(a.version + "\n", encoding="utf-8")
+    if a.readme_file:
+        (out_pkg / "README_KO.txt").write_text(Path(a.readme_file).read_text(encoding="utf-8-sig"), encoding="utf-8-sig")
     if a.readme_note:
         readme = out_pkg / "README_KO.txt"
         txt = readme.read_text(encoding="utf-8-sig")
@@ -532,6 +593,11 @@ def main() -> int:
                 continue
             rp = line.split(" *", 1)[1]
             lines.append(f"{sha(out_pkg / Path(rp))} *{rp}")
+        listed = {l.split(" *", 1)[1].lower() for l in lines}
+        for f in manifest["files"]:
+            rp = "payload/" + f["path"]
+            if rp.lower() not in listed:
+                lines.append(f"{sha(out_pkg / Path(rp))} *{rp}")
         sums.write_text("\n".join(lines) + "\n", encoding="utf-8")
     with (out_pkg / "font_added_glyphs.csv").open("w", encoding="utf-8-sig", newline="") as fh:
         w = csv.writer(fh)
