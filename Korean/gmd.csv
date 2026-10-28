@@ -107884,7 +107884,7 @@ aafsadfg
 静かな店を知ってたら、連れていってくれ","파트너, 나중에 술 한잔하러 가지 않겠나?
 레스타니아의 술맛을 보고 싶군.
 조용한 가게를 안다면 안내해 줘.",ui\00_message\npc\base\n4918.gmd,\npc\n4918.arc,n4918.arc,3,Mephis,Incidental Dialogue
-0,,――！,！,ui\00_message\npc\base\n4918.gmd,\npc\n4918.arc,n4918.arc,4,Mephis,Incidental Dialogue
+0,,――！,……!,ui\00_message\npc\base\n4918.gmd,\npc\n4918.arc,n4918.arc,4,Mephis,Incidental Dialogue
 0,,"クク――いや、よく考えたら
 お前が俺のところに持ってきたって
 驚くようなことじゃなかったな
@@ -124579,7 +124579,7 @@ aafsadfg
 선보일 물품 준비에 시간이 필요합니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,11,,Arisen's Room Pawn Dialogue (Smart)
 0,,パートナーを解除――本当に問題はないか？,파트너 해제… 정말로 문제없습니까?,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,12,,Arisen's Room Pawn Dialogue (Smart)
 0,,本日も、我が主の健康に問題無し,오늘도 주인님의 건강에 이상 없습니다.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,13,,Arisen's Room Pawn Dialogue (Smart)
-0,,本日の降水確率10％、晴れ時々曇り,"오늘 강수 확률 10%, 맑고 때때로 흐림입니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,14,,Arisen's Room Pawn Dialogue (Smart)
+0,,本日の降水確率10％、晴れ時々曇り,"오늘 강수 확률 10％, 맑고 때때로 흐림입니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,14,,Arisen's Room Pawn Dialogue (Smart)
 0,,"ポーンの強さが覚者より大幅に劣っていると、
 ポーンが積める戦いの経験量が増加する
 ――ただし、逆の場合の経験量は激減する","폰의 강함이 각성자보다 현저히 낮을 경우,
@@ -124589,7 +124589,7 @@ aafsadfg
 いつでも戦闘態勢への移行が可能","출발 준비는 완료되었습니다.
 언제든 전투 태세로 전환할 수 있습니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,16,,Arisen's Room Pawn Dialogue (Smart)
 0,,――食事、入浴ともに全て準備完了,"식사, 입욕 모두 준비 완료되었습니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,17,,Arisen's Room Pawn Dialogue (Smart)
-0,,――――？,?,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,18,,Arisen's Room Pawn Dialogue (Smart)
+0,,――――？,……?,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,18,,Arisen's Room Pawn Dialogue (Smart)
 0,,"安心は、油断という毒になり得る
 しかし――今はしばし、その毒を楽しもう","안심은 방심이라는 독이 될 수 있습니다.
 그러나… 지금은 잠시 그 독을 즐기겠습니다.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,19,,Arisen's Room Pawn Dialogue (Smart)
@@ -154851,7 +154851,7 @@ aafsadfg
 어때?",ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,121,Jan,Quest Dialogue
 0,,<NPC 3259>を仲間に迎える,<NPC 3259>을(를) 동료로 맞이한다,ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,122,Jan,Quest Dialogue
 0,,少し考えさせてくれ,조금 생각하게 해 줘,ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,123,Jan,Quest Dialogue
-0,,――――！,!,ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,124,Jan,Quest Dialogue
+0,,――――！,……!,ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,124,Jan,Quest Dialogue
 0,,"ありがとう――
 俺にできることなら何でも言ってくれ","고마워…
 내가 할 수 있는 일이라면 뭐든 말해줘.",ui\00_message\quest\q10320301.gmd,\quest\q10320301.arc,q10320301.arc,125,Jan,Quest Dialogue
